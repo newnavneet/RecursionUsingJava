@@ -18,6 +18,4 @@ public class CharactersofString {
         print("code ");
 
     }
-
-
 }
